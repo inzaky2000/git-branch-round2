@@ -1,5 +1,5 @@
 body {
-    background-color: #e97222;
+    background-color: #e49c02;
 }
 
 .container {
@@ -16,6 +16,7 @@ body {
 .menu{
     float: right;
     list-style-type: none;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .container img{
